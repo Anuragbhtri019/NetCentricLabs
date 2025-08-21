@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anurag\\source\\repos\\WebApp1ByAnurag\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CD4681-B353-4EE9-92B3-7BCD3FB0E4DF}|WebApp1ByAnurag\\WebApp1ByAnurag.csproj|c:\\users\\anurag\\source\\repos\\webapp1byanurag\\webapp1byanurag\\views\\home\\myrazorpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6CD4681-B353-4EE9-92B3-7BCD3FB0E4DF}|WebApp1ByAnurag\\WebApp1ByAnurag.csproj|solutionrelative:webapp1byanurag\\views\\home\\myrazorpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CD4681-B353-4EE9-92B3-7BCD3FB0E4DF}|WebApp1ByAnurag\\WebApp1ByAnurag.csproj|c:\\users\\anurag\\source\\repos\\webapp1byanurag\\webapp1byanurag\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CD4681-B353-4EE9-92B3-7BCD3FB0E4DF}|WebApp1ByAnurag\\WebApp1ByAnurag.csproj|solutionrelative:webapp1byanurag\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CD4681-B353-4EE9-92B3-7BCD3FB0E4DF}|WebApp1ByAnurag\\WebApp1ByAnurag.csproj|c:\\users\\anurag\\source\\repos\\webapp1byanurag\\webapp1byanurag\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CD4681-B353-4EE9-92B3-7BCD3FB0E4DF}|WebApp1ByAnurag\\WebApp1ByAnurag.csproj|solutionrelative:webapp1byanurag\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CD4681-B353-4EE9-92B3-7BCD3FB0E4DF}|WebApp1ByAnurag\\WebApp1ByAnurag.csproj|c:\\users\\anurag\\source\\repos\\webapp1byanurag\\webapp1byanurag\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CD4681-B353-4EE9-92B3-7BCD3FB0E4DF}|WebApp1ByAnurag\\WebApp1ByAnurag.csproj|solutionrelative:webapp1byanurag\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CD4681-B353-4EE9-92B3-7BCD3FB0E4DF}|WebApp1ByAnurag\\WebApp1ByAnurag.csproj|c:\\users\\anurag\\source\\repos\\webapp1byanurag\\webapp1byanurag\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6CD4681-B353-4EE9-92B3-7BCD3FB0E4DF}|WebApp1ByAnurag\\WebApp1ByAnurag.csproj|solutionrelative:webapp1byanurag\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CD4681-B353-4EE9-92B3-7BCD3FB0E4DF}|WebApp1ByAnurag\\WebApp1ByAnurag.csproj|c:\\users\\anurag\\source\\repos\\webapp1byanurag\\webapp1byanurag\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6CD4681-B353-4EE9-92B3-7BCD3FB0E4DF}|WebApp1ByAnurag\\WebApp1ByAnurag.csproj|solutionrelative:webapp1byanurag\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CD4681-B353-4EE9-92B3-7BCD3FB0E4DF}|WebApp1ByAnurag\\WebApp1ByAnurag.csproj|c:\\users\\anurag\\source\\repos\\webapp1byanurag\\webapp1byanurag\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6CD4681-B353-4EE9-92B3-7BCD3FB0E4DF}|WebApp1ByAnurag\\WebApp1ByAnurag.csproj|solutionrelative:webapp1byanurag\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anurag\\source\\repos\\WebApp1ByAnurag\\WebApp1ByAnurag\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApp1ByAnurag\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Anurag\\source\\repos\\WebApp1ByAnurag\\WebApp1ByAnurag\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "WebApp1ByAnurag\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T16:58:30.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anurag\\source\\repos\\WebApp1ByAnurag\\WebApp1ByAnurag\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebApp1ByAnurag\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Anurag\\source\\repos\\WebApp1ByAnurag\\WebApp1ByAnurag\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebApp1ByAnurag\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T16:57:41.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Anurag\\source\\repos\\WebApp1ByAnurag\\WebApp1ByAnurag\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApp1ByAnurag\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Anurag\\source\\repos\\WebApp1ByAnurag\\WebApp1ByAnurag\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApp1ByAnurag\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T16:46:51.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Anurag\\source\\repos\\WebApp1ByAnurag\\WebApp1ByAnurag\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "WebApp1ByAnurag\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Anurag\\source\\repos\\WebApp1ByAnurag\\WebApp1ByAnurag\\Models\\Student.cs",
+              "RelativeToolTip": "WebApp1ByAnurag\\Models\\Student.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T16:11:16.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyRazorPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anurag\\source\\repos\\WebApp1ByAnurag\\WebApp1ByAnurag\\Views\\Home\\MyRazorPage.cshtml",
+              "RelativeDocumentMoniker": "WebApp1ByAnurag\\Views\\Home\\MyRazorPage.cshtml",
+              "ToolTip": "C:\\Users\\Anurag\\source\\repos\\WebApp1ByAnurag\\WebApp1ByAnurag\\Views\\Home\\MyRazorPage.cshtml",
+              "RelativeToolTip": "WebApp1ByAnurag\\Views\\Home\\MyRazorPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T16:31:17.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Anurag\\source\\repos\\WebApp1ByAnurag\\WebApp1ByAnurag\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp1ByAnurag\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Anurag\\source\\repos\\WebApp1ByAnurag\\WebApp1ByAnurag\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp1ByAnurag\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T16:38:33.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Anurag\\source\\repos\\WebApp1ByAnurag\\WebApp1ByAnurag\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebApp1ByAnurag\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Anurag\\source\\repos\\WebApp1ByAnurag\\WebApp1ByAnurag\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebApp1ByAnurag\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T16:10:41.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

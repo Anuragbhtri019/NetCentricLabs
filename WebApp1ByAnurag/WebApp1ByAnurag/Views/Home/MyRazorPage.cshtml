@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "My Razor Page";
+
+}
+<h2>My Razor Page</h2>
+<p>Current Date and Time: @ViewBag.CurrentDateTime</p>
+    <p>Name:Anurag Bhattarai</p>
+    <p>RollNo:4</p>
+    <h3>Multiplication table of 5</h3>
+    
+        @for (int i = 1; i <= 10; i++)
+        {
+            <p>5 x @i = @(5 * i)</p>
+        }
