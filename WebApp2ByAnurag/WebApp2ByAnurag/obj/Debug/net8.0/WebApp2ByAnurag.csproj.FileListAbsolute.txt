@@ -31,3 +31,4 @@ C:\Users\Anurag\source\repos\WebApp2ByAnurag\WebApp2ByAnurag\obj\Debug\net8.0\re
 C:\Users\Anurag\source\repos\WebApp2ByAnurag\WebApp2ByAnurag\obj\Debug\net8.0\WebApp2ByAnurag.pdb
 C:\Users\Anurag\source\repos\WebApp2ByAnurag\WebApp2ByAnurag\obj\Debug\net8.0\WebApp2ByAnurag.genruntimeconfig.cache
 C:\Users\Anurag\source\repos\WebApp2ByAnurag\WebApp2ByAnurag\obj\Debug\net8.0\ref\WebApp2ByAnurag.dll
+C:\Users\Anurag\source\repos\WebApp2ByAnurag\WebApp2ByAnurag\obj\Debug\net8.0\WebApp2ByAnurag.sourcelink.json

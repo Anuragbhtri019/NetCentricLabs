@@ -45,7 +45,7 @@ namespace WebApp3ByAnurag.Controllers
 
         // POST: Student/Create
         [HttpPost]
-        [ValidateAntiForgeryToken]
+       
         public IActionResult Create(Student student)
         {
             if (!ModelState.IsValid) return View(student);

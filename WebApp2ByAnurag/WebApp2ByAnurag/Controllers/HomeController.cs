@@ -1,34 +1,3 @@
-
-//using Microsoft.AspNetCore.Mvc;
-//using WebApp2ByAnurag.Models;
-//using WebApp2ByAnurag.Services;
-
-//namespace WebApp2ByAnurag.Controllers
-//{
-//    public class HomeController : Controller
-//    {
-//        private readonly IGreetingService _greetingService;
-
-//        public HomeController(IGreetingService  greetingService)
-//        {
-//            _greetingService = greetingService;
-//        }
-
-//        public IActionResult Index()
-//        {
-//            ViewData["Message"] = _greetingService.GetGreeting();
-//            return View();
-//        }
-
-//        public IActionResult Privacy()
-//        {
-//            return View();
-//        }
-
-
-//    }
-//}
-
 using Microsoft.AspNetCore.Mvc;
 using WebApp2ByAnurag.Services;
 

@@ -18,7 +18,7 @@ namespace WebApp1ByAnurag.Models
         public string Faculty { get; set; }
         [Required(ErrorMessage = "Email is required")]
         [StringLength(50)]
-        [EmailAddress(ErrorMessage = "Invalid Email Address")]
+
         public string Email { get; set; }
 
     }
