@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using WebApp5ByAnurag.Models;
 using WebApp5ByAnurag.Repositories;
 
-namespace WebApp4ByAnurag.Repositories
+namespace WebApp5ByAnurag.Repositories
 {
     public class StudentRepo : IRepository<Student>
     {

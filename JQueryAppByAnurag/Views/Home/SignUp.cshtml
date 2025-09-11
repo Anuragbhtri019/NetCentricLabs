@@ -1,0 +1,100 @@
+﻿@{
+    ViewData["Title"] = "Sign Up";
+}
+
+<h2>Anurag Bhattarai - Roll No: 4</h2>
+
+<form id="signupForm">
+    <div>
+        <label for="fullname">Full Name:</label>
+        <input type="text" id="fullname" name="fullname" />
+        <span id="nameError" style="color:red"></span>
+    </div><br>
+
+    <div>
+        <label for="email">Email:</label>
+        <input type="text" id="email" name="email" />
+        <span id="emailError" style="color:red"></span>
+    </div><br>
+
+    <div>
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" />
+        <span id="passError" style="color:red"></span>
+    </div><br>
+
+    <div>
+        <label for="confirmPassword">Confirm Password:</label>
+        <input type="password" id="confirmPassword" name="confirmPassword" />
+        <span id="confirmPassError" style="color:red"></span>
+    </div><br>
+
+    <div>
+        <button type="submit">Sign Up</button>
+    </div>
+</form>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#signupForm").submit(function (e) {
+                e.preventDefault();
+                let isValid = true;
+
+                // Full Name validation
+                if ($("#fullname").val().trim() === "") {
+                    $("#nameError").text("Full Name is required");
+                    isValid = false;
+                } else {
+                    $("#nameError").text("");
+                }
+
+                // Email validation
+            let emailPattern = /^[^ ]+@@[^ ]+\.[a-z]{2,3}$/;
+
+            if ($("#email").val() === "" || !emailPattern.test($("#email").val())) {
+                $("#emailError").text("Valid email required");
+                isValid = false;
+            } else {
+                $("#emailError").text("");
+            }
+
+            // Password validation
+            if ($("#password").val() === "") {
+                $("#passError").text("Password is required");
+                isValid = false;
+            } else {
+                $("#passError").text("");
+            }
+
+                // Password validation
+                if ($("#password").val().trim() === "") {
+                    $("#passError").text("Password is required");
+                    isValid = false;
+                } else if ($("#password").val().length < 6) {
+                    $("#passError").text("Password must be at least 6 characters");
+                    isValid = false;
+                } else {
+                    $("#passError").text("");
+                }
+
+                // Confirm Password validation
+                if ($("#confirmPassword").val().trim() === "") {
+                    $("#confirmPassError").text("Confirm Password is required");
+                    isValid = false;
+                } else if ($("#confirmPassword").val() !== $("#password").val()) {
+                    $("#confirmPassError").text("Passwords do not match");
+                    isValid = false;
+                } else {
+                    $("#confirmPassError").text("");
+                }
+
+                // Final check
+                if (isValid) {
+                    alert("Form submitted successfully!");
+                }
+            });
+        });
+    </script>
+}

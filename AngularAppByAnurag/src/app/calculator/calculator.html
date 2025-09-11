@@ -1,0 +1,35 @@
+<div style="max-width: 500px; margin: 40px auto; text-align: center;">
+  <h2>Simple Calculator</h2>
+
+  <form>
+    <!-- Number 1 -->
+    <div style="margin-bottom: 15px;">
+      <input type="number" [(ngModel)]="num1" name="num1" placeholder="Enter first number" />
+    </div>
+
+    <!-- Number 2 -->
+    <div style="margin-bottom: 15px;">
+      <input type="number" [(ngModel)]="num2" name="num2" placeholder="Enter second number" />
+    </div>
+
+    <!-- Operation Dropdown -->
+    <div style="margin-bottom: 15px;">
+      <select [(ngModel)]="operation" name="operation">
+        <option value="add">Add</option>
+        <option value="subtract">Subtract</option>
+        <option value="multiply">Multiply</option>
+      </select>
+    </div>
+
+    <!-- Compute Button -->
+    <div style="margin-bottom: 15px;">
+      <button type="button" (click)="compute()">Compute</button>
+    </div>
+  </form>
+
+  <!-- Result -->
+  <div *ngIf="result !== null">
+    <h3>Result: {{ result }}</h3>
+  </div>
+</div>
+

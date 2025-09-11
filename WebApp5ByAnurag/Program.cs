@@ -1,6 +1,4 @@
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Win32;
-using WebApp4ByAnurag.Repositories;
 using WebApp5ByAnurag.Models;
 using WebApp5ByAnurag.Repositories;
 var builder = WebApplication.CreateBuilder(args);

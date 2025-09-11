@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Anurag\\source\\repos\\WebApp4ByAnurag\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEB81317-F463-41AE-9F9D-93B8E6047882}|WebApp4ByAnurag.csproj|c:\\users\\anurag\\source\\repos\\webapp4byanurag\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEB81317-F463-41AE-9F9D-93B8E6047882}|WebApp4ByAnurag.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEB81317-F463-41AE-9F9D-93B8E6047882}|WebApp4ByAnurag.csproj|c:\\users\\anurag\\source\\repos\\webapp4byanurag\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB81317-F463-41AE-9F9D-93B8E6047882}|WebApp4ByAnurag.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BEB81317-F463-41AE-9F9D-93B8E6047882}|WebApp4ByAnurag.csproj|c:\\users\\anurag\\source\\repos\\webapp4byanurag\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEB81317-F463-41AE-9F9D-93B8E6047882}|WebApp4ByAnurag.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BEB81317-F463-41AE-9F9D-93B8E6047882}|WebApp4ByAnurag.csproj|c:\\users\\anurag\\source\\repos\\webapp4byanurag\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEB81317-F463-41AE-9F9D-93B8E6047882}|WebApp4ByAnurag.csproj|solutionrelative:views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BEB81317-F463-41AE-9F9D-93B8E6047882}|WebApp4ByAnurag.csproj|c:\\users\\anurag\\source\\repos\\webapp4byanurag\\repositories\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEB81317-F463-41AE-9F9D-93B8E6047882}|WebApp4ByAnurag.csproj|solutionrelative:repositories\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEB81317-F463-41AE-9F9D-93B8E6047882}|WebApp4ByAnurag.csproj|c:\\users\\anurag\\source\\repos\\webapp4byanurag\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEB81317-F463-41AE-9F9D-93B8E6047882}|WebApp4ByAnurag.csproj|solutionrelative:models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEB81317-F463-41AE-9F9D-93B8E6047882}|WebApp4ByAnurag.csproj|c:\\users\\anurag\\source\\repos\\webapp4byanurag\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEB81317-F463-41AE-9F9D-93B8E6047882}|WebApp4ByAnurag.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEB81317-F463-41AE-9F9D-93B8E6047882}|WebApp4ByAnurag.csproj|c:\\users\\anurag\\source\\repos\\webapp4byanurag\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BEB81317-F463-41AE-9F9D-93B8E6047882}|WebApp4ByAnurag.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BEB81317-F463-41AE-9F9D-93B8E6047882}|WebApp4ByAnurag.csproj|c:\\users\\anurag\\source\\repos\\webapp4byanurag\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BEB81317-F463-41AE-9F9D-93B8E6047882}|WebApp4ByAnurag.csproj|solutionrelative:repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEB81317-F463-41AE-9F9D-93B8E6047882}|WebApp4ByAnurag.csproj|c:\\users\\anurag\\source\\repos\\webapp4byanurag\\webapp4byanurag.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BEB81317-F463-41AE-9F9D-93B8E6047882}|WebApp4ByAnurag.csproj|solutionrelative:webapp4byanurag.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BEB81317-F463-41AE-9F9D-93B8E6047882}|WebApp4ByAnurag.csproj|c:\\users\\anurag\\source\\repos\\webapp4byanurag\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB81317-F463-41AE-9F9D-93B8E6047882}|WebApp4ByAnurag.csproj|solutionrelative:models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEB81317-F463-41AE-9F9D-93B8E6047882}|WebApp4ByAnurag.csproj|c:\\users\\anurag\\source\\repos\\webapp4byanurag\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BEB81317-F463-41AE-9F9D-93B8E6047882}|WebApp4ByAnurag.csproj|solutionrelative:views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BEB81317-F463-41AE-9F9D-93B8E6047882}|WebApp4ByAnurag.csproj|c:\\users\\anurag\\source\\repos\\webapp4byanurag\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEB81317-F463-41AE-9F9D-93B8E6047882}|WebApp4ByAnurag.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB81317-F463-41AE-9F9D-93B8E6047882}|WebApp4ByAnurag.csproj|c:\\users\\anurag\\source\\repos\\webapp4byanurag\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BEB81317-F463-41AE-9F9D-93B8E6047882}|WebApp4ByAnurag.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEB81317-F463-41AE-9F9D-93B8E6047882}|WebApp4ByAnurag.csproj|c:\\users\\anurag\\source\\repos\\webapp4byanurag\\webapp4byanurag.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BEB81317-F463-41AE-9F9D-93B8E6047882}|WebApp4ByAnurag.csproj|solutionrelative:webapp4byanurag.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,19 +58,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "StudentRepo.cs",
               "DocumentMoniker": "C:\\Users\\Anurag\\source\\repos\\WebApp4ByAnurag\\Repositories\\StudentRepo.cs",
               "RelativeDocumentMoniker": "Repositories\\StudentRepo.cs",
               "ToolTip": "C:\\Users\\Anurag\\source\\repos\\WebApp4ByAnurag\\Repositories\\StudentRepo.cs",
               "RelativeToolTip": "Repositories\\StudentRepo.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwBYAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwDwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T19:02:27.095Z"
+              "WhenOpened": "2025-08-27T19:02:27.095Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\Anurag\\source\\repos\\WebApp4ByAnurag\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IRepository.cs",
@@ -78,19 +79,21 @@
               "RelativeToolTip": "Repositories\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T19:02:10.986Z"
+              "WhenOpened": "2025-08-27T19:02:10.986Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Anurag\\source\\repos\\WebApp4ByAnurag\\Views\\Student\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Student\\Details.cshtml",
               "ToolTip": "C:\\Users\\Anurag\\source\\repos\\WebApp4ByAnurag\\Views\\Student\\Details.cshtml",
               "RelativeToolTip": "Views\\Student\\Details.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-27T18:45:55.106Z"
+              "WhenOpened": "2025-08-27T18:45:55.106Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -100,13 +103,14 @@
               "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
               "ToolTip": "C:\\Users\\Anurag\\source\\repos\\WebApp4ByAnurag\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAIwE0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T18:43:49.92Z"
+              "WhenOpened": "2025-08-27T18:43:49.92Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "StudentDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Anurag\\source\\repos\\WebApp4ByAnurag\\Models\\StudentDbContext.cs",
               "RelativeDocumentMoniker": "Models\\StudentDbContext.cs",
@@ -114,24 +118,25 @@
               "RelativeToolTip": "Models\\StudentDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T18:41:19.52Z"
+              "WhenOpened": "2025-08-27T18:41:19.52Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Anurag\\source\\repos\\WebApp4ByAnurag\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Models\\Student.cs",
               "ToolTip": "C:\\Users\\Anurag\\source\\repos\\WebApp4ByAnurag\\Models\\Student.cs",
               "RelativeToolTip": "Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T18:39:33.499Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "WebApp4ByAnurag.csproj",
               "DocumentMoniker": "C:\\Users\\Anurag\\source\\repos\\WebApp4ByAnurag\\WebApp4ByAnurag.csproj",
               "RelativeDocumentMoniker": "WebApp4ByAnurag.csproj",
@@ -139,11 +144,12 @@
               "RelativeToolTip": "WebApp4ByAnurag.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-27T18:36:44.557Z"
+              "WhenOpened": "2025-08-27T18:36:44.557Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Anurag\\source\\repos\\WebApp4ByAnurag\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -151,19 +157,21 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-27T18:34:19.574Z"
+              "WhenOpened": "2025-08-27T18:34:19.574Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Anurag\\source\\repos\\WebApp4ByAnurag\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Anurag\\source\\repos\\WebApp4ByAnurag\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T18:33:21.68Z"
+              "WhenOpened": "2025-08-27T18:33:21.68Z",
+              "EditorCaption": ""
             }
           ]
         }
