@@ -13,6 +13,17 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+// Add CORS
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAngularApp", policy =>
+    {
+        policy.WithOrigins("http://localhost:4200")
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
+});
+
 
 
 var app = builder.Build();
@@ -26,8 +37,17 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+// Enable CORS
+app.UseCors("AllowAngularApp");
+
+// Serve static files (for Angular app)
+app.UseStaticFiles();
+
 app.UseAuthorization();
 
 app.MapControllers();
+
+// Serve Angular app for any unmatched routes
+app.MapFallbackToFile("index.html");
 
 app.Run();
