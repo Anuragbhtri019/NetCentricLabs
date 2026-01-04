@@ -274,7 +274,7 @@ CREATE TABLE Products (
 
 ## 👨‍💻 Author
 
-**Anurag Bhatri**
+**Anurag Bhattarai**
 
 ## 📝 Notes
 
